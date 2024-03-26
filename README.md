@@ -1,14 +1,28 @@
 <h1>Data Cleaning and Visualization using Microsoft Excel</h1>
 
+<h2>Excel Dataset</h2>
+[Download Excel File](url_of_your_excel_file)
+
+
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project is intended to showcase my knowledge in Excel using standard data cleaning techniques and data visualization charts and pivot tables.
 <br />
+<h2>Common Data Cleaning Best Practices</h2>
+
+- Removing Duplicates: Use Excel's "Remove Duplicates" feature to eliminate duplicate records from your dataset. Removing outliers in your data that could skew your data and visualization charts.
+
+- Handling Missing Values: Identify and handle missing values appropriately.
+
+- Cleaning data by removing leading/trailing spaces, converting text to proper case, removing special characters, and standardizing text values. Excel functions like TRIM(), PROPER(), and CLEAN() and Find and Replace are useful.
+
+- Standardize data formats to ensure consistency. For example, ensure that all dates are in the same format, all measurements use the same units, and categorical variables use consistent naming conventions.
+
+- Use Excel's "Format Cells" feature to change data types as required.
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Excel Formulas Used</h2>
 
-- <b>Microsoft Excel</b> 
-- <b>Pivot Tables</b>
+- <b>XLOOKUP, TRIM, PROPER, IF</b> 
 
 
 <h2>Program walk-through:</h2>
