@@ -31,19 +31,20 @@ This project is intended to showcase my knowledge in Excel using standard data c
 
 <p align="center">
 Data Formatting and Cleaning<br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+ 
+![Screenshot 2024-03-26 122807](https://github.com/honeyPogace/DataCleaning_Excel/assets/163610456/13cfc0fa-50c5-473e-bb53-8db32341cadf)
+
+
 <br />
 Data Visualization using Pivot Tables<br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Pivot_Chart_Graphs](https://github.com/honeyPogace/DataCleaning_Excel/assets/163610456/3bad4254-8797-4ea9-9a05-15bfb951ec6f)
+
 <br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Excel Data Project Dashboard Overview<br/>
+
+![Dashboard](https://github.com/honeyPogace/DataCleaning_Excel/assets/163610456/84fd39ea-d867-4542-8312-12736f61060e)
+
 <br />
 <br />
 
