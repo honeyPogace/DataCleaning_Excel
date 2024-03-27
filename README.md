@@ -30,18 +30,28 @@ This project is intended to showcase my knowledge in Excel using standard data c
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Data Formatting and Cleaning<br/>
+<h3>Data Formatting and Cleaning</h3>
+ <br/>
+ 
+ - First and foremost, removed Duplicate IDs from the dataset. Find and Replace feature used to replace letters such as "S" to Single and "M" to Married. Other functions not depicted that were used were TRIM, and PROPER. Formatting certain values, such as "Income", to establish congruency with the data using Transform feature. An "Age Range" column was added to give better clarity when creating visualizations.
+
  
 ![Screenshot 2024-03-26 122807](https://github.com/honeyPogace/DataCleaning_Excel/assets/163610456/13cfc0fa-50c5-473e-bb53-8db32341cadf)
 
 
 <br />
-Data Visualization using Pivot Tables<br/>
+- <h3>Data Visualization using Pivot Tables<h3/>
+ <br/>
+ 
+- Multiple pivot tables were created to establish some insight into decision making.
 
 ![Pivot_Chart_Graphs](https://github.com/honeyPogace/DataCleaning_Excel/assets/163610456/3bad4254-8797-4ea9-9a05-15bfb951ec6f)
 
 <br />
-Excel Data Project Dashboard Overview<br/>
+<h3>Excel Data Project Dashboard Overview<h3/>
+ <br/>
+ 
+- Created a simple dashboard to showcase the pivot tables and included some utility in the form of splicers to filter through relevant data.
 
 ![Dashboard](https://github.com/honeyPogace/DataCleaning_Excel/assets/163610456/84fd39ea-d867-4542-8312-12736f61060e)
 
