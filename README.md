@@ -1,33 +1,9 @@
 <h1>Data Cleaning and Visualization using Microsoft Excel</h1>
 
 <h2>Excel Dataset</h2>
-Upload Excel File to GitHub:
 
-Navigate to your GitHub repository where you want to store the Excel file.
-Click on the "Add file" dropdown button and select "Upload files".
-Choose your Excel file from your local machine and upload it to your repository.
-Get the URL of the Excel File:
+[Excel Data Project](PK)
 
-Once the file is uploaded, click on it to view its contents.
-Copy the URL from your browser's address bar.
-Link the Excel File:
-
-In your README.md file (or any other markdown file) within your GitHub repository, use Markdown syntax to create a link to your Excel file.
-
-You can create a hyperlink like this:
-
-markdown
-Copy code
-[Download Excel File](url_of_your_excel_file)
-Replace url_of_your_excel_file with the URL you copied in step 2.
-
-Commit and Push Changes:
-
-After making changes to your README.md file, commit your changes and push them to your GitHub repository.
-
-
-
-[Download Excel File](url_of_your_excel_file)
 
 
 <h2>Description</h2>
