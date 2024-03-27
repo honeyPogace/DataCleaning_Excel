@@ -22,10 +22,6 @@ This project is intended to showcase my knowledge in Excel using standard data c
 - Use Excel's "Format Cells" feature to change data types as required.
 
 
-<h2>Excel Formulas Used</h2>
-
-- <b>XLOOKUP, TRIM, PROPER, IF</b> 
-
 
 <h2>Program walk-through:</h2>
 
